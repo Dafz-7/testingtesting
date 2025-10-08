@@ -1,6 +1,6 @@
-# attributes: name, age, genre, hobby, daily routine, things i ilove, things i hate, future profession
-# methods: 
+# NO chatgpt involved.
 
+# attributes: name, age, genre, hobby, daily routine, things i ilove, things i hate, future profession
 
 class aboutMe:
     def __init__(self, name, completeName, age, gender, hobby):

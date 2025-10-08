@@ -1,3 +1,5 @@
+# NO chatgpt involved.
+
 class BankAccount:
     bank_name = "Mandiri"
     def __init__(self, owner, balance):
